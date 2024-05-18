@@ -51,9 +51,7 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/dusa-sai-krishna/dusa-sai-krishna/output/snake.svg" alt="Snake animation" />
 
 ###
 
