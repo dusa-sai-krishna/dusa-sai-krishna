@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front End**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/dusasai/recent-activity/articles/](https://www.linkedin.com/in/dusasai/recent-activity/articles/)
+- 📝 I regularly write articles on [https://medium.com/@dsai9441695421](https://medium.com/@dsai9441695421)
 
 - 💬 Ask me about **Data Science, ML and LLMs**
 
@@ -13,9 +13,14 @@
 
 - ⚡ Fun fact **I can teach technical topics well**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dusasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dusasai" height="30" width="40" /></a>
+<a href="https://medium.com/@dsai9441695421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dsai9441695421" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dsai9441695421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dsai9441695421" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/saikrishna1732003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saikrishna1732003" height="30" width="40" /></a>
 </p>
